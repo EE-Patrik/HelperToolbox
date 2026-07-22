@@ -1,0 +1,163 @@
+HelperToolbox — Proprietary End-User Licence (Customer)
+
+Copyright (c) 2026 Patrik Stastny. All rights reserved.
+
+This Software was developed independently by the author in personal time
+and is not a work made for hire.
+
+Nothing in this licence grants any rights to, or is granted by,
+the author’s employer unless explicitly agreed in writing.
+
+IMPORTANT: This licence is granted only to a legal entity (“Customer”),
+not to a natural person in their personal capacity. Natural persons may
+install, access, or use the Software solely as authorised users acting on
+behalf of and for the internal business purposes of Customer.
+
+If Customer has entered into a separate written agreement with the
+copyright owner or its supplier (for example a master licence, supply, or
+services agreement), that agreement governs fees, term, support, and any
+conflict with this licence to the extent permitted by that agreement.
+
+────────────────────────────────────────────────────────────────────────────
+
+1. Definitions
+
+   “Documentation” means the user guides and technical materials, if any,
+   provided by Licensor with the Software.
+
+   “Customer” means the single legal entity (for example a corporation,
+   limited company, or partnership) that has lawfully received the Software
+   from Licensor or an authorised distributor and accepts this licence on
+   behalf of that entity.
+
+   “Licensor” means the copyright owner identified above and its successors
+   and assigns.
+
+   “Software” means the HelperToolbox computer program and related files
+   supplied by Licensor (quality-of-life and productivity tooling for
+   automotive testing, diagnostics, and validation), including updates or
+   supplements Licensor expressly designates as licensed hereunder, excluding
+   any third-party components licensed on their own terms under Section 8.
+
+2. Grant of licence
+
+   Subject to this licence and Customer’s compliance with it, Licensor grants
+   Customer a limited, non-exclusive, non-transferable (except as Section 10
+   allows), revocable licence to:
+
+   (a) install and run object-code copies of the Software on devices owned
+       or controlled by Customer; and
+
+   (b) use the Software and Documentation solely for the internal business
+       purposes of the licensed Customer,
+
+   and to permit Customer’s employees and individual contractors (“Authorised
+   Users”) to do the same strictly on Customer’s behalf and within the same
+   scope. No licence is granted to any other person or entity.
+
+3. Restrictions
+
+   Customer shall not, and shall ensure Authorised Users do not:
+
+   - use the Software for any purpose other than the internal business
+     purposes of the licensed Customer;
+
+   - copy the Software except as reasonably needed for backup, disaster
+     recovery, or deployment within Customer’s own IT environment, and then
+     only for use under this licence;
+
+   - distribute, disclose, rent, lease, loan, sell, assign, pledge, or
+     otherwise transfer the Software, Documentation, or licence rights to any
+     third party;
+
+   - sublicense, commercialise, or offer the Software as a service to third
+     parties, or use it to provide services to third parties except where
+     such use remains solely for Customer’s own internal business purposes;
+
+   - publicly perform, publicly display, or make the Software or
+     non-public Documentation available to the public or to anyone who is not
+     an Authorised User acting for Customer;
+
+   - remove, obscure, or alter any proprietary notices or labels on the
+     Software or Documentation;
+
+   - publish benchmarks or performance data relating to the Software without
+     Licensor’s prior written consent;
+
+   - use the Software in any manner that violates applicable law or
+     regulation.
+
+   Reverse engineering, decompilation, and disassembly are prohibited except
+   to the limited extent mandatory applicable law expressly permits,
+   notwithstanding this restriction, and then only after Customer has
+   requested the necessary information from Licensor in writing.
+
+4. Reservation of rights
+
+   The Software and Documentation are licensed, not sold. Licensor and its
+   licensors retain all right, title, and interest in and to the Software and
+   Documentation, including all intellectual property rights. No rights are
+   granted except as expressly stated in this licence.
+
+5. Confidentiality
+
+   Customer shall treat the Software, non-public Documentation, and any
+   non-public technical or commercial information Licensor provides about
+   them as Licensor’s confidential information, and shall protect them using
+   at least the same degree of care Customer uses for its own similar
+   information (and no less than reasonable care). Customer shall not disclose
+   them to any third party except professional advisers bound by
+   confidentiality or as required by law, subject to prompt notice to
+   Licensor where lawful.
+
+6. No warranty
+
+   THE SOFTWARE AND DOCUMENTATION ARE PROVIDED “AS IS”, WITHOUT WARRANTY OF
+   ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING
+   IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+   TITLE, AND NON-INFRINGEMENT. LICENSOR DOES NOT WARRANT THAT THE SOFTWARE
+   WILL MEET CUSTOMER’S REQUIREMENTS, OPERATE WITHOUT INTERRUPTION, OR BE
+   ERROR-FREE. SOME JURISDICTIONS DO NOT ALLOW CERTAIN WARRANTY EXCLUSIONS; IN
+   THOSE JURISDICTIONS, EXCLUSIONS APPLY TO THE MAXIMUM EXTENT PERMITTED.
+
+7. Limitation of liability
+
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL
+   LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL,
+   OR PUNITIVE DAMAGES, OR FOR LOSS OF PROFITS, DATA, GOODWILL, OR BUSINESS
+   INTERRUPTION, ARISING OUT OF OR RELATED TO THIS LICENCE OR THE SOFTWARE,
+   EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. LICENSOR’S TOTAL
+   LIABILITY FOR ALL CLAIMS ARISING OUT OF OR RELATED TO THIS LICENCE OR THE
+   SOFTWARE SHALL NOT EXCEED THE GREATER OF (A) THE AMOUNTS CUSTOMER PAID
+   LICENSOR FOR THE SOFTWARE IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM OR
+   (B) ONE HUNDRED EUROS (EUR 100), IF NO FEES WERE PAID. NOTHING IN THIS
+   LICENCE LIMITS LIABILITY THAT CANNOT BE LIMITED UNDER MANDATORY LAW.
+
+8. Third-party components
+
+   The Software may include third-party open-source or other materials. Those
+   materials remain subject to their respective licences. This licence does
+   not restrict Customer’s rights under those third-party licences or grant
+   rights that those licences do not allow.
+
+9. Term and termination
+
+   This licence continues until terminated. Licensor may terminate this
+   licence immediately if Customer materially breaches it and fails to cure
+   within thirty (30) days of written notice (if cure is possible). Upon
+   termination, Customer shall cease all use of the Software, permanently
+   delete or destroy all copies (including backups) in Customer’s possession
+   or control, and, on request, certify such deletion in writing. Sections 3–8
+   and any accrued rights survive termination.
+
+10. General
+
+    Customer may not assign or transfer this licence without Licensor’s prior
+    written consent. Licensor may assign this licence in connection with a
+    merger, acquisition, or sale of assets. If any provision is held
+    unenforceable, the remainder stays in effect. This licence is the entire
+    agreement between Customer and Licensor regarding the Software to the
+    extent no separate commercial agreement applies as described above.
+
+For licensing, compliance, or contractual terms, contact Licensor or your
+authorised supplier.
